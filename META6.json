@@ -1,0 +1,16 @@
+{
+  "perl" : "v6",
+  "name" : "NativeCall",
+  "description" : "Native call interface for Rakudo",
+  "version" : "v1",
+  "build-depends" : [ ],
+  "test-depends" : [ ],
+  "depends" : [ ],
+  "provides" : {
+    "NativeCall" : "lib/NativeCall.pm6"
+  },
+  "support" : {
+    "source" : "https://github.com/jnthn/zavolaj.git",
+    "bugtracker" : "https://github.com/jnthn/zavolaj/issues"
+  }
+}
